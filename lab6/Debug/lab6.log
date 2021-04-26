@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Xiaomi\source\repos\lab6\Queue2.h(125,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\lab6\Source.cpp(41): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::ostream &operator <<<int>(std::ostream &,const Queue2<int> &)"
+C:\Users\Xiaomi\source\repos\lab6\List.h(308): warning C4715: List2<int>::operator[]: значение возвращается не при всех путях выполнения
+  lab6.vcxproj -> C:\Users\Xiaomi\source\repos\lab6\Debug\lab6.exe
